@@ -1,0 +1,10 @@
+.form {
+    display: inline-block;
+    text-align: left;
+}
+
+.header {
+    display: inline;
+    justify-content: space-evenly;
+    align-items: center;
+}
